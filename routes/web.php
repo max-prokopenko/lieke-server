@@ -20,7 +20,7 @@ Route::get('/', function () {
 });
 
 
-
+//
 Auth::routes();
 
 Route::get('/play', 'HomeControllerUser@index')->name('user.dashboard');
