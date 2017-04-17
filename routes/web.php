@@ -10,6 +10,10 @@
 | contains the "web" middleware group. Now create something great!
 |
 */
+// CORS
+header('Access-Control-Allow-Origin: *');
+header('Access-Control-Allow-Credentials: true');
+
 
 Route::get('/', function () {
     return view('welcome');
@@ -18,3 +22,11 @@ Route::get('/', function () {
 Auth::routes();
 
 Route::get('/home', 'HomeController@index');
+
+Route::resource('/api/v1/game', 'GameController');
+
+Route::resource('/api/v1/spot', 'SpotController');
+
+Route::resource('/api/v1/group', 'GroupController');
+
+Route::resource('/api/v1/user', 'UserController');
