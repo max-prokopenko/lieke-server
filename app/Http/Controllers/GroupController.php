@@ -20,8 +20,8 @@ class GroupController extends Controller
     {
         //Remember to change to auth
         
-                //$games = Game::all()->where('teacher_id', Auth::user()->id);
-        $groups = Group::all()->where('teacher_id', 1);
+        //$games = Game::all()->where('teacher_id', Auth::guard('teacher')->user()->id);
+        $groups = Group::all()->where('teacher_id', Auth::guard('teacher')->user()->id);
                 //$groups = Group::all()->where('teacher_id', Auth::user()->id);
         
         

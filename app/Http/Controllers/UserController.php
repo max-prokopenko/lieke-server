@@ -16,8 +16,13 @@ class UserController extends Controller
      */
     public function index()
     {
-            //$user = Auth::user();
-            $user = User::where('id', 1)->first();
+            if (Auth::user() !== null) {
+                $user = Auth::user();
+            }
+            else {
+                 $user = Auth::guard('teacher')->user();
+            }
+            //$user = User::where('id', 1)->first();
 
             $group = $user->groups;
 

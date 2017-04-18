@@ -19,8 +19,8 @@ class ResultController extends Controller
      */
     public function index()
     {
-        //$results = Result::all()->where('user_id', Auth::user()->id);
-        $results = Result::all()->where('user_id', 1);
+        $results = Result::all()->where('user_id', Auth::user()->id);
+        //$results = Result::all()->where('user_id', 1);
 
         $total = 0;
         foreach ($results as $key=>$result) {
@@ -57,8 +57,8 @@ class ResultController extends Controller
     {
         $data = new Result;
 
-        //$data->user_id = Auth::user()->id;
-        $data->user_id = $request->user_id;
+        $data->user_id = Auth::user()->id;
+        //$data->user_id = $request->user_id;
         $data->game_id = $request->game_id;
         $data->info = $request->info;
         $data->result = $request->result;

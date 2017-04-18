@@ -18,7 +18,7 @@ class CreateGroupsTable extends Migration
             $table->string('name');
             $table->text('desc');
             $table->integer('teacher_id')->unsigned();
-            $table->foreign('teacher_id')->references('id')->on('teacher');
+            $table->foreign('teacher_id')->references('id')->on('teachers');
             $table->timestamps();
         });
     }

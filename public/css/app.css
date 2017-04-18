@@ -22,4 +22,7 @@
     .menuSide {
         display: none !important;
     }
+    .navbar {
+    	display: none;
+    }
 }

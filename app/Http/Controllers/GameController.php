@@ -17,8 +17,8 @@ class GameController extends Controller
     public function index()
     {
         //Remember to change to auth
-        //$games = Game::all()->where('teacher_id', Auth::user()->id);
-        $games = Game::all()->where('teacher_id', 1);
+        $games = Game::all()->where('teacher_id', Auth::guard('teacher')->user()->id);
+        //$games = Game::all()->where('teacher_id', 1);
       
         $response = json_decode($games);
 
@@ -54,8 +54,8 @@ class GameController extends Controller
         $data->name = $request->name;
         $data->tasks = $request->tasks;
         $data->radius = $request->radius;
-        //$data->teacher_id = Auth::user()->id;
-        $data->teacher_id = 1;
+        $data->teacher_id = Auth::guard('teacher')->user()->id;
+        //$data->teacher_id = 1;
         $data->group_id = $request->group_id;
         $data->coords = $request->coords;
         $data->created_at = date("Y-m-d H:i:s");
