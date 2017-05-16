@@ -1,0 +1,1584 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"newUser",
+				"newUserDefault"
+			],
+			[
+				"newGroup",
+				"newGroupDefault"
+			],
+			[
+				"f",
+				"fun	function …"
+			],
+			[
+				"paddi",
+				"padding-bottom"
+			],
+			[
+				"resu",
+				"results_temp"
+			],
+			[
+				"tot",
+				"total_user"
+			],
+			[
+				"result",
+				"results"
+			],
+			[
+				"tota",
+				"total"
+			],
+			[
+				"for",
+				"for	for …"
+			],
+			[
+				"function",
+				"angular.isFunction"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"senten",
+				"sentences"
+			],
+			[
+				"wra",
+				"flex-wrap"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"tetx",
+				"text-align"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"selecte",
+				"selectedRows"
+			],
+			[
+				"selected",
+				"selectedGroup"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"show",
+				"showMore"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"latitu",
+				"latitudeDelta"
+			],
+			[
+				"alignt",
+				"alignItems"
+			],
+			[
+				"fetch",
+				"fetchMemes"
+			],
+			[
+				"longPress",
+				"longPressed"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"margi",
+				"marginLeft"
+			],
+			[
+				"flex",
+				"flexDirection"
+			],
+			[
+				"longPres",
+				"longPressed"
+			],
+			[
+				"random",
+				"randomLocations"
+			],
+			[
+				"render",
+				"render"
+			],
+			[
+				"address",
+				"addresses"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"Click",
+				"ClickSound"
+			],
+			[
+				"aloitus",
+				"aloitusKm"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"import",
+				"important"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"eve",
+				"event"
+			],
+			[
+				"fetc",
+				"fetchEvents"
+			],
+			[
+				"over",
+				"overflow"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"Reso",
+				"Response"
+			],
+			[
+				"TextS",
+				"Textsms"
+			],
+			[
+				"Fras",
+				"Frase"
+			],
+			[
+				"borde",
+				"border-radius"
+			],
+			[
+				"heigh",
+				"height"
+			],
+			[
+				"al",
+				"align-items"
+			],
+			[
+				"heig",
+				"height"
+			],
+			[
+				"backge",
+				"background-size"
+			],
+			[
+				"wr",
+				"flex-wrap"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"fle",
+				"flex-direction"
+			],
+			[
+				"res",
+				"results"
+			],
+			[
+				"r",
+				"results"
+			],
+			[
+				"sub",
+				"subscribe"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"fl",
+				"flex-direction"
+			],
+			[
+				"di",
+				"div	Tag"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"response",
+				"responseJson"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"orang",
+				"deepOrange700"
+			],
+			[
+				"two",
+				"componentWillMount	 Life Cycle"
+			],
+			[
+				"imp",
+				"import	 x from 'x'"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"origi",
+				"originalWords"
+			],
+			[
+				"cdm",
+				"componentDidMount	 Life Cycle"
+			],
+			[
+				"day_",
+				"day_date"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"te",
+				"text-decoration-style"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"remove",
+				"angular: removeClass"
+			],
+			[
+				"tra",
+				"transform-origin"
+			],
+			[
+				"height",
+				"height"
+			],
+			[
+				"Innig",
+				"Innight"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"comments",
+				"commentsString"
+			],
+			[
+				"commen",
+				"comments"
+			],
+			[
+				"commentS",
+				"commentsString"
+			],
+			[
+				"styleTe",
+				"styleTextField"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"is",
+				"isRequired"
+			],
+			[
+				"Rea",
+				"React.PropTypes.object"
+			],
+			[
+				"c",
+				"cover"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"parse",
+				"parseInt"
+			],
+			[
+				"syste",
+				"systems"
+			],
+			[
+				"syst",
+				"systemData"
+			],
+			[
+				"firebase",
+				"firebaseUser"
+			],
+			[
+				"o",
+				"overflow"
+			],
+			[
+				"survey",
+				"surveyId"
+			],
+			[
+				"quest",
+				"questionnairInfo"
+			],
+			[
+				"reque",
+				"require	var x = require('x')"
+			],
+			[
+				"mr",
+				"margin"
+			],
+			[
+				"kys",
+				"kysely"
+			],
+			[
+				"ky",
+				"kysely"
+			],
+			[
+				"origina",
+				"originalWords"
+			],
+			[
+				"ORIGI",
+				"originalWords"
+			],
+			[
+				"original",
+				"originalSanitized"
+			],
+			[
+				"scored",
+				"scoredWords"
+			],
+			[
+				"cons",
+				"console.log"
+			],
+			[
+				"con",
+				"console.log"
+			],
+			[
+				"kyse",
+				"kysely"
+			],
+			[
+				"newW",
+				"newWordWords"
+			],
+			[
+				"scoreW",
+				"scoredWordsTemp"
+			],
+			[
+				"trans",
+				"transcriptSanitized"
+			],
+			[
+				"fin",
+				"function"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"page",
+				"pagecontainershow"
+			],
+			[
+				"fade",
+				"fadeIn"
+			],
+			[
+				"font-s",
+				"font-size-adjust"
+			],
+			[
+				"mat",
+				"margin-right"
+			],
+			[
+				"bottom_",
+				"bottom_of_object"
+			],
+			[
+				"bo",
+				"border-bottom"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"PADDI",
+				"padding-top"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"co",
+				"color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/Http/Controllers/GroupController.php",
+			"settings":
+			{
+				"buffer_size": 3027,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Http/Controllers/Auth/ResetPasswordController.php",
+			"settings":
+			{
+				"buffer_size": 952,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Http/Middleware/RedirectIfAuthenticated.php",
+			"settings":
+			{
+				"buffer_size": 679,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/css/app.css",
+			"settings":
+			{
+				"buffer_size": 118684,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/js/bundle.js",
+			"settings":
+			{
+				"buffer_size": 1025849,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "routes/web.php",
+			"settings":
+			{
+				"buffer_size": 1218,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/wamp/www/allrounders/config/database.php",
+			"settings":
+			{
+				"buffer_size": 3579,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/wamp/www/lieke-react/src/components/Play/index.js",
+			"settings":
+			{
+				"buffer_size": 17903,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/wamp/www/lieke-react/src/components/Play/Play.css",
+			"settings":
+			{
+				"buffer_size": 1512,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/wamp/www/lieke-react/src/components/Teacher/index.js",
+			"settings":
+			{
+				"buffer_size": 33932,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "resources/views/welcome.blade.php",
+			"settings":
+			{
+				"buffer_size": 2435,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/wamp/www/Populic/android/gradle.properties",
+			"settings":
+			{
+				"buffer_size": 1051,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/wamp/www/Populic/android/app/build.gradle",
+			"settings":
+			{
+				"buffer_size": 5988,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/wamp/www/Populic/src/components/App/index.js",
+			"settings":
+			{
+				"buffer_size": 17138,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/wamp/www/lieke-react/src/components/Teacher/Teacher.css",
+			"settings":
+			{
+				"buffer_size": 584,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/wamp/www/lieke-react/src/components/Teacher/Pagination.js",
+			"settings":
+			{
+				"buffer_size": 941,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control:install",
+		"selected_items":
+		[
+			[
+				"Package Control:install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 472.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/wamp/www/lieke-server",
+		"/C/wamp/www/lieke-server/app",
+		"/C/wamp/www/lieke-server/app/Http/Controllers",
+		"/C/wamp/www/lieke-server/app/Http/Controllers/Auth",
+		"/C/wamp/www/lieke-server/app/Http/Middleware",
+		"/C/wamp/www/lieke-server/database",
+		"/C/wamp/www/lieke-server/public",
+		"/C/wamp/www/lieke-server/public/js",
+		"/C/wamp/www/lieke-server/resources",
+		"/C/wamp/www/lieke-server/resources/views",
+		"/C/wamp/www/lieke-server/resources/views/auth",
+		"/C/wamp/www/lieke-server/routes",
+		"/C/wamp/www/lieke-react/src",
+		"/C/wamp/www/lieke-react/src/components",
+		"/C/wamp/www/lieke-react/src/components/Teacher"
+	],
+	"file_history":
+	[
+		"/C/wamp/www/lieke-server/config/auth.php",
+		"/C/wamp/www/lieke-react/src/RootRoute.js",
+		"/C/wamp/www/lieke-server/app/Http/Controllers/UserController.php",
+		"/C/wamp/www/lieke-server/app/Http/Controllers/GameController.php",
+		"/C/wamp/www/lieke-server/app/Http/Controllers/ResultController.php",
+		"/C/wamp/www/lieke-server/app/Http/Controllers/Auth/RegisterController.php",
+		"/C/wamp/www/lieke-server/resources/views/welcome.blade.php",
+		"/C/wamp/www/lieke-server/database/migrations/2017_04_12_010507_create_group_users_table.php",
+		"/C/wamp/www/lieke-server/app/Teacher.php",
+		"/C/wamp/www/lieke-server/app/Http/Controllers/HomeController.php",
+		"/C/wamp/www/lieke-server/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php",
+		"/C/wamp/www/lieke-server/app/Http/Controllers/Auth/LoginController.php",
+		"/C/wamp/www/lieke-server/app/Http/Controllers/HomeControllerUser.php",
+		"/C/wamp/www/lieke-server/resources/views/auth/teacher-login.blade.php",
+		"/C/wamp/www/lieke-server/app/Http/Controllers/Auth/TeacherLoginController.php",
+		"/C/wamp/www/lieke-server/database/migrations/2017_04_17_162841_add_results_table.php",
+		"/C/wamp/bin/apache/apache2.4.23/conf/extra/httpd-vhosts.conf",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/wamp/www/lieke-server/database/migrations/2017_04_16_231950_add_group_to_games.php",
+		"/C/wamp/www/lieke-react/src/components/Play/Pagination.js",
+		"/C/wamp/www/lieke-react/src/components/Teacher/Pagination.js",
+		"/C/wamp/www/Populic/src/components/App/index.js",
+		"/C/wamp/www/lieke-react/src/components/Play/PaginationDot.js",
+		"/C/wamp/www/lieke-react/node_modules/react-gmaps/dist/components/entity.js",
+		"/C/wamp/www/lieke-react/src/components/App/index.js",
+		"/C/wamp/www/lieke-react/src/components/Teacher/index.js",
+		"/C/wamp/www/lieke-server/app/Group.php",
+		"/C/wamp/www/lieke-server/database/migrations/2017_04_16_184206_add_radius_to_games.php",
+		"/C/wamp/www/lieke-react/node_modules/react-gmaps/dist/components/marker.js",
+		"/C/wamp/www/lieke-react/node_modules/react-gmaps/dist/components/circle.js",
+		"/C/wamp/www/lieke-react/node_modules/react-gmaps/dist/events/marker.js",
+		"/C/wamp/www/lieke-server/app/User.php",
+		"/C/wamp/www/lieke-server/app/Http/Controllers/GroupController.php",
+		"/C/wamp/www/laskuteline/themes/laskuteline/layouts/default.htm",
+		"/C/wamp/www/sumino/themes/sumino/assets/javascript/education.js",
+		"/C/Users/maxpr/AppData/Local/Temp/F3T53F5.tmp/Settings.php",
+		"/C/Users/maxpr/AppData/Local/Temp/F3T5407.tmp/Settings.php",
+		"/C/wamp/www/laskuteline/modules/backend/layouts/auth.htm",
+		"/C/wamp/www/laskuteline/themes/laskuteline/assets/css/style.css",
+		"/C/wamp/www/laskuteline/themes/laskuteline/assets/javascript/app.js",
+		"/C/wamp/www/laskuteline/themes/laskuteline/pages/home.htm",
+		"/C/wamp/www/laskuteline/modules/backend/assets/css/october.css",
+		"/C/wamp/www/laskuteline/storage/app/uploads/broadcasting.php",
+		"/C/wamp/www/sumino/themes/sumino/assets/javascript/marketing.js",
+		"/C/wamp_old/www/sumino/themes/sumino/assets/javascript/app.js",
+		"/C/wamp/www/Populic/node_modules/react-native-maps/android/src/main/java/com/airbnb/android/react/maps/MapsPackage.java",
+		"/C/wamp/www/Populic/src/components/Profile/index.js",
+		"/C/wamp/www/Populic/src/components/Camera/index.js",
+		"/C/wamp/www/Populic/node_modules/react-native-maps/docs/marker.md",
+		"/C/wamp/www/Populic/node_modules/react-native-maps/android/src/main/java/com/airbnb/android/react/maps/AirMapMarkerManager.java",
+		"/C/wamp/www/Populic/node_modules/react-native-maps/android/src/main/java/com/airbnb/android/react/maps/AirMapManager.java",
+		"/C/wamp/www/Populic/node_modules/react-native-maps/android/src/main/java/com/airbnb/android/react/maps/AirMapView.java",
+		"/C/wamp/www/Populic/node_modules/react-native-maps/android/src/main/java/com/airbnb/android/react/maps/AirMapMarker.java",
+		"/C/wamp/www/Populic/node_modules/react-native-maps/components/MapView.js",
+		"/C/wamp/www/Populic/node_modules/react-native-maps/components/MapMarker.js",
+		"/C/wamp/www/Populic/node_modules/react-native-google-places-autocomplete/GooglePlacesAutocomplete.js",
+		"/C/wamp/www/Populic/src/components/App/Search.js",
+		"/C/wamp/www/Populic/src/components/Camera/Search.js",
+		"/C/wamp/www/lieke-react/src/components/Blocks/Frase.js",
+		"/C/wamp/www/Populic/src/components/App/mapstyle.json",
+		"/C/wamp/www/lieke-react/src/components/Teacher/Teacher.css",
+		"/C/wamp/www/lieke-server/routes/web.php",
+		"/C/wamp/www/lieke-server/public/css/app.css",
+		"/C/wamp/www/lieke-server/database/migrations/2017_04_12_010259_create_groups_table.php",
+		"/C/wamp/www/lieke-react/src/components/Admin/Admin.css",
+		"/C/wamp/www/lieke-react/src/components/Teacher/mapStyle.json",
+		"/C/Users/maxpr/AppData/Local/Temp/F3TEA8A.tmp/host.conf",
+		"/C/Users/maxpr/AppData/Local/Temp/F3TEA86.tmp/1",
+		"/C/wamp/www/allrounders/app/Http/Kernel.php",
+		"/C/wamp/www/venditor-react/src/components/CompanyProfile/invoiceTemp.js",
+		"/C/wamp/www/venditor-react/src/components/CompanyProfile/index.js",
+		"/C/wamp/www/venditor-react/node_modules/generate-invoice/examples/invoice.js",
+		"/C/wamp/www/venditor-react/node_modules/generate-invoice/lib/index.js",
+		"/C/wamp/www/venditor-react/node_modules/generate-invoice/demo.js",
+		"/C/wamp/www/venditor-react/node_modules/generate-invoice/README.md",
+		"/C/wamp/www/venditor-react/src/components/CompanyProfile/Loading.css",
+		"/C/wamp/www/venditor-server/database/migrations/2017_04_09_163717_add_column_title_to_events.php",
+		"/C/wamp/www/venditor-server/app/Http/Kernel.php",
+		"/C/wamp/www/venditor-server/app/Event.php",
+		"/C/wamp/www/venditor-react/src/RootRoute.js",
+		"/C/wamp/www/venditor-react/src/components/App/index.js",
+		"/C/wamp/www/venditor-server/resources/views/layouts/app.blade.php",
+		"/C/wamp/www/venditor-server/resources/views/layouts/main.blade.php",
+		"/C/wamp/www/venditor-server/public/js/bundle.js",
+		"/C/wamp/www/venditor-server/database/migrations/2017_04_02_225047_update_events3_table.php",
+		"/C/wamp/www/venditor-server/database/migrations/2017_04_02_224424_update_events2_table.php",
+		"/C/wamp/www/venditor-server/database/migrations/2017_04_02_223215_update_tables.php",
+		"/C/wamp/www/venditor-server/database/migrations/2017_04_02_220310_create_events_table.php",
+		"/C/wamp/www/venditor-server/database/migrations/2017_04_02_220546_create_bills_table.php",
+		"/C/wamp/www/venditor-server/database/migrations/2017_04_02_222740_update_events_table.php",
+		"/C/wamp/www/venditor-react/public/index.html",
+		"/C/wamp/www/lieke-react/src/components/Blocks/Timer.css",
+		"/C/wamp/www/lieke-react/src/components/Blocks/Timer.js",
+		"/C/wamp/www/lieke-react/package.json",
+		"/C/wamp/www/lieke-react/src/components/Admin/index.js",
+		"/C/wamp/www/lieke-react/src/components/Blocks/Frase.css",
+		"/C/wamp/www/lieke-react/node_modules/react-timer/lib/Timer.js",
+		"/C/wamp/www/lieke-react/node_modules/react-timer/src/Timer.js",
+		"/C/wamp/www/lieke-react/src/components/Blocks/Word.css",
+		"/C/wamp_old/www/pronounce-live-react/src/components/Gauge.js",
+		"/C/wamp_old/www/allrounders-react/public/index.html",
+		"/C/wamp/www/venditor-react/node_modules/react-svg-line-chart/lib/index.js",
+		"/C/wamp/www/venditor-react/src/components/App/d3.js",
+		"/C/wamp/www/venditor-react/src/components/App/AreaChart.js",
+		"/C/wamp/www/venditor-react/src/components/App/AdminLTE.min.css",
+		"/C/wamp/www/venditor-react/public/AdminLTE.min.css",
+		"/C/wamp/www/venditor-react/src/components/App/LineChart.js",
+		"/C/wamp/www/venditor-react/node_modules/react-adminlte-dash/dist/index.js",
+		"/C/wamp/www/venditor-react/src/components/App/util.js",
+		"/C/wamp/www/venditor-react/node_modules/react-adminlte-dash/package.json",
+		"/C/wamp/www/venditor-server/resources/views/loader/create.blade.php",
+		"/C/wamp/www/venditor-server/resources/views/loader.blade.php",
+		"/C/wamp/www/venditor-server/readme.md",
+		"/C/wamp/www/venditor-server/app/Http/Controllers/LoadController.php",
+		"/C/wamp/www/venditor-server/database/migrations/2017_03_25_234947_create_companies_table.php",
+		"/C/wamp/www/venditor-server/vendor/laravel/framework/src/Illuminate/Database/Schema/Blueprint.php",
+		"/C/wamp/www/venditor-server/resources/views/home.blade.php",
+		"/C/wamp/www/venditor-server/public/css/app.css",
+		"/C/wamp/www/venditor-react/src/App.test.js",
+		"/C/wamp/www/venditor-react/src/index.js",
+		"/C/wamp/www/venditor-server/app/Http/Controllers/HomeController.php",
+		"/C/wamp/www/venditor-server/resources/views/auth/register.blade.php",
+		"/C/wamp/www/venditor-server/resources/views/auth/subscribe.blade.php",
+		"/C/wamp/www/venditor-server/app/Http/Controllers/Auth/RegisterController.php",
+		"/C/wamp/www/venditor-server/config/services.php",
+		"/C/wamp/www/venditor-server/config/app.php",
+		"/C/wamp/www/venditor-server/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/C/wamp/www/venditor-server/database/migrations/2017_03_25_000008_create_subscriptions_users_table.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\wamp\\www\\pronounce-live-react-native",
+			"C:\\wamp\\www\\october\\octobermovies\\themes\\sumino",
+			"C:\\wamp\\www\\pronounce-live\\app",
+			"C:\\wamp\\www\\pronounce-live\\app\\scripts"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"startGam",
+			"this.state.gamesAvbl[index]",
+			"startGame",
+			"http",
+			"http://maps.googleapis",
+			"maps.googleapis.com/maps/api/geocode/",
+			"add",
+			"addUser",
+			"post",
+			"localhost",
+			"local",
+			"post",
+			"step",
+			"ste",
+			"http://localhost:8000",
+			"users",
+			".users",
+			"localhost",
+			"/home",
+			"localhost",
+			"loca",
+			"startGa",
+			"start",
+			"gamesA",
+			"subhea",
+			"subheas",
+			"map",
+			"//$",
+			"settin",
+			"post",
+			"handleChangeOption",
+			"senten",
+			"sentens",
+			"id",
+			"i",
+			"RadioButton",
+			"start",
+			"currentGame",
+			".map",
+			"map",
+			"handleChange",
+			"handleChangeGroup",
+			"// ",
+			"tasks",
+			"value'",
+			"value",
+			"handleChange",
+			"sente",
+			"handle",
+			"sent",
+			"5",
+			"add",
+			"addS",
+			"addSe",
+			"Gma",
+			"sent",
+			"<Pap",
+			"width",
+			"#",
+			"styles",
+			"handle",
+			"heigh",
+			"willM",
+			"#",
+			"}\n",
+			"marker",
+			"newGame",
+			"newRas",
+			"changeRa",
+			"changeN",
+			"Game",
+			"conso",
+			"marker",
+			"Circ",
+			"Circi",
+			"show",
+			"\"Cancel\"",
+			"handleCha",
+			"handleChan",
+			"addS",
+			"Add",
+			"addG",
+			"add",
+			"selected",
+			"selectedGroup",
+			"setG",
+			",\n",
+			"() =>",
+			"myGroupSudentsOpen",
+			"myGroupsOpen",
+			"actionsMyGroups",
+			"?",
+			"val",
+			"october-logo",
+			"oc-logo",
+			"october-logo.svg",
+			"october-logo",
+			"october-logo-white.svg",
+			"head",
+			"header",
+			"insta",
+			"max-width",
+			"412",
+			"layout",
+			"w-container",
+			"media",
+			"med",
+			"p {",
+			"inst",
+			"band",
+			"nav-link:",
+			"nava-link:",
+			"nava-lin",
+			"nav-l",
+			"lato",
+			"band",
+			"head",
+			"54px",
+			"conso",
+			"console.log",
+			"GoogleMap",
+			"GoogleMap.OnMapLongClickListener",
+			"Mana",
+			"push",
+			"panResponder",
+			"_panResponder",
+			"panResponder",
+			"100"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"100",
+			"230"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 13,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/Http/Controllers/GroupController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3027,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1569,
+								1569
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 637.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/Http/Controllers/Auth/ResetPasswordController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 952,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								780,
+								780
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/Http/Middleware/RedirectIfAuthenticated.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 679,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								610,
+								610
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "public/css/app.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 118684,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								118675,
+								118675
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "public/js/bundle.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1025849,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								472860,
+								472860
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 143860.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "routes/web.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1218,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								558,
+								558
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/wamp/www/allrounders/config/database.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3579,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1691,
+								1684
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/C/wamp/www/lieke-react/src/components/Play/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 17903,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3458,
+								3053
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1232.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/C/wamp/www/lieke-react/src/components/Play/Play.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1512,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1497,
+								1497
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 393.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/C/wamp/www/lieke-react/src/components/Teacher/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 33932,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								19893,
+								19893
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 10954.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "resources/views/welcome.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2435,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1915,
+								1915
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 351.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/C/wamp/www/Populic/android/gradle.properties",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1051,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1051,
+								1051
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/JavaProperties.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/C/wamp/www/Populic/android/app/build.gradle",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5988,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4686,
+								4686
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Groovy/Groovy.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1190.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "/C/wamp/www/Populic/src/components/App/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 17138,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3207,
+								3207
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1667.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "/C/wamp/www/lieke-react/src/components/Teacher/Teacher.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 584,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								480,
+								480
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "/C/wamp/www/lieke-react/src/components/Teacher/Pagination.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 941,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								191,
+								191
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 97.0
+	},
+	"output.find_results":
+	{
+		"height": 94.0
+	},
+	"pinned_build_system": "",
+	"project": "project_file.sublime-project",
+	"replace":
+	{
+		"height": 38.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 286.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

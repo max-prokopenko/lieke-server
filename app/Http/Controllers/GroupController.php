@@ -18,7 +18,7 @@ class GroupController extends Controller
      */
     public function index()
     {
-        //Remember to change to auth
+        //  Remember to change to auth
         //   
         //$games = Game::all()->where('teacher_id', Auth::guard('teacher')->user()->id);
         $groups = Group::all()->where('teacher_id', Auth::guard('teacher')->user()->id);
